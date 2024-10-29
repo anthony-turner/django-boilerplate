@@ -3,6 +3,9 @@
 
 A production-ready Django project template with best practices built-in.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
 ## Features
 - PostgreSQL database configuration
 - Environment variables using python-decouple
